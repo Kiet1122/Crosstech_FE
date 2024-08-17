@@ -18,6 +18,7 @@ export const BtnApp = ({ name }: { name: string }) => {
                 borderRadius: "10px",
                 padding: 3,
                 color: "white",
+                width:"100%"
             }}
         >
             {name}
